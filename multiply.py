@@ -1,6 +1,6 @@
-num1=int(input("Enter the first number: "))
+num1=12
 
-num2=int(input("Enter the second number: "))
+num2=3
 
 mul=num1*num2;
 
